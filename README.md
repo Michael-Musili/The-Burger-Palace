@@ -2,11 +2,19 @@
 
 
 ## Description
-
+we will give you a burger taste you just wont want it out of your mouth.
 
 ## Demo
-[Demo] 
+[https://github.com/Michael-Musili/The-Burger-Palace.git] 
 
+##Contributors
+Michael Musili
+
+##Technology used
+1.HTML
+2.CSS
+##Support and contact details
+Email;michael.musili@moringaschool.com
 ## Licence
 
 MIT License
