@@ -4,10 +4,11 @@
     font-family: 'Oswald', sans-serif;
 }
 .header{
-    min-height: 100vh;
-    width: 100%;
-    background: yellow;
+    height: 100%;
+    width: 1000%;
+    background: linear-gradient(to bottom-right rgb(255,255,255)50%, rgb(253,193,48)50%);
 }
+
 nav {
     display: flex;
     padding: 2% 6%;
@@ -43,5 +44,27 @@ nav img {
 .text-box p{
     font-size: 25px;
     color: black;
+}
+.header2{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(247,253,246);
+    height: 300px;
+    padding-top: 100px;
+}
+.header3{
+    text-align: center;
+}
+.Burgers{
+    display: flex;
+    justify-content: space-evenly;
+}
+.Burgers2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.header4{
+    display: flex;
+
 }
 
