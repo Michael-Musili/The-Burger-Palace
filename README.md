@@ -1,11 +1,12 @@
 # The Burger Palace
-
+The tastes of the skies
 
 ## Description
-
+We offer the best burgers in the country
+You got to taste this
 
 ## Demo
-[Demo] 
+[Demo](https://michael-musili.github.io/The-Burger-Palace/)
 
 ## Licence
 
