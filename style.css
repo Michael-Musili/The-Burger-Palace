@@ -5,9 +5,12 @@
 }
 .header{
     height: 100%;
-    width: 1000%;
-    background: linear-gradient(to bottom-right rgb(255,255,255)50%, rgb(253,193,48)50%);
+    width: 100%;
 }
+
+.header {
+    background: linear-gradient(95deg, #fff 50%, #f6b400 20%);
+  }
 
 nav {
     display: flex;
@@ -66,5 +69,9 @@ nav img {
 .header4{
     display: flex;
 
+}
+.imageA{
+    display: flex;
+    justify-content: right;
 }
 
